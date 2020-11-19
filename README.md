@@ -28,6 +28,10 @@ If you are working on code halfway but suddenly want to revert back to the origi
 * git stash
 * git stash pop (to reverse)
 
+If you accidentally committed some changes but want to wipe them out completely:
+
+* git reset --hard
+
 ## Task 1 
 * Demo that you are able to consume weather service API and display the weather details (Done)
 * Draw a diagram to show the difference between invoking web service using C# and JQuery (Incomplete)
