@@ -11,16 +11,16 @@ Pulling new changes:
 Pushing new changes:
 
 * git add .
-* git commit -m "<your message here>"
+* git commit -m "\<your message here>"
 * git push
 
 If you want to work on a new feature:
 
-* git checkout -b <Name of feature>
+* git checkout -b \<Name of feature>
 * git add .
-* git commit -m "<your message here>"
+* git commit -m "\<your message here>"
 * git push
-* git push -u origin <Name of feature>
+* git push -u origin \<Name of feature>
 
 Then flag a pull request using the user interface above.
 
