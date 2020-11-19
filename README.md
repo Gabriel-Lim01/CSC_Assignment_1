@@ -2,6 +2,32 @@
 
 Done by Gabriel and Nicole.
 
+## Git commands
+
+Pulling new changes:
+
+* git pull
+
+Pushing new changes:
+
+* git add .
+* git commit -m "<your message here>"
+* git push
+
+If you want to work on a new feature:
+
+* git checkout -b <Name of feature>
+* git add .
+* git commit -m "<your message here>"
+* git push
+* git push -u origin <Name of feature>
+
+Then flag a pull request using the user interface above.
+
+If you are working on code halfway but suddenly want to revert back to the original:
+* git stash
+* git stash pop (to reverse)
+
 ## Task 1 
 * Demo that you are able to consume weather service API and display the weather details (Done)
 * Draw a diagram to show the difference between invoking web service using C# and JQuery (Incomplete)
