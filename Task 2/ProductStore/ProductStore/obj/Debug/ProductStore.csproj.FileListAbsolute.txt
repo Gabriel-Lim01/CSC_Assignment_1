@@ -83,3 +83,38 @@ C:\Users\Gabriel\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.c
 C:\Users\Gabriel\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
 C:\Users\Gabriel\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.dll
 C:\Users\Gabriel\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.pdb
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\ProductStore.dll.config
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\ProductStore.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\ProductStore.pdb
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Http.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Razor.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\WebGrease.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Http.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Optimization.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.Razor.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\obj\Debug\ProductStore.csprojAssemblyReference.cache
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\obj\Debug\ProductStore.dll
+C:\Users\user\Documents\CSC\CSC_Assignment_1\Task 2\ProductStore\ProductStore\obj\Debug\ProductStore.pdb
