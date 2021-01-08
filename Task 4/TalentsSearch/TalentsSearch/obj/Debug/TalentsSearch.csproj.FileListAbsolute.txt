@@ -236,3 +236,9 @@ C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\Talent
 C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\obj\Debug\TalentsSearch.csproj.CopyComplete
 C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\obj\Debug\TalentsSearch.dll
 C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\obj\Debug\TalentsSearch.pdb
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\bin\AWSSDK.Core.dll
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\bin\AWSSDK.S3.dll
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\bin\AWSSDK.Core.pdb
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\bin\AWSSDK.Core.xml
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\bin\AWSSDK.S3.pdb
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 4\TalentsSearch\TalentsSearch\bin\AWSSDK.S3.xml

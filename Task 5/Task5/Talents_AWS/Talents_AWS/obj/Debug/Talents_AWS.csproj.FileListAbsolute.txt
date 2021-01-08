@@ -312,3 +312,5 @@ D:\CSC\1\CloudAndServiceComputingCA1\Task5\Talents_AWS\Talents_AWS\obj\Debug\Tal
 D:\CSC\1\CloudAndServiceComputingCA1\Task5\Talents_AWS\Talents_AWS\obj\Debug\Talents_AWS.pdb
 C:\Users\user\Downloads\Task5\Task5\Talents_AWS\Talents_AWS\obj\Debug\Talents_AWS.dll
 C:\Users\user\Downloads\Task5\Task5\Talents_AWS\Talents_AWS\obj\Debug\Talents_AWS.pdb
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 5\Task5\Talents_AWS\Talents_AWS\obj\Debug\Talents_AWS.dll
+C:\Users\Gabriel\Desktop\Poly stuff\CSC\Assignment 1\Task 5\Task5\Talents_AWS\Talents_AWS\obj\Debug\Talents_AWS.pdb

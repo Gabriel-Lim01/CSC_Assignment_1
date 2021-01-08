@@ -1,8 +1,10 @@
 <html>
+
 <head>
     <title>Task 1</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Task1.css" />
 </head>
 <style>
     td {
@@ -18,8 +20,7 @@
     <h1>Weather Service API</h1>
     <button type="button" class="btn btn-primary" id="submit">Get Weather</button>
 
-    <table cellpadding="0" cellspacing="0"
-           border="0" t id="dataTable">
+    <table cellpadding="0" cellspacing="0" border="0" t id="dataTable">
         <thead>
             <tr>
                 <th>Area</th>
@@ -32,6 +33,8 @@
 
     <div id="myData"></div>
 
+    <div id="loader" class="lds-dual-ring hidden overlay"></div>
+
     <script>
         $(document).ready(function () {
             $("#submit").click(function (e) {
@@ -39,10 +42,16 @@
                     type: "GET",
                     url: "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast",
                     dataType: "json",
+                    beforeSend: function () { // Before we send the request, remove the .hidden class from the spinner and default to inline-block.
+                        $('#loader').removeClass('hidden')
+                    },
                     success: function (data) {
                         console.log(data);
                         //appendData(data.items[0].forecasts);
                         renderData(data.items[0].forecasts);
+                    },
+                    complete: function () { // Set our complete callback, adding the .hidden class and hiding the spinner.
+                        $('#loader').addClass('hidden')
                     },
                     error: function (xhr, status, error) {
                         alert("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText)
@@ -83,4 +92,5 @@
 
     </script>
 </body>
+
 </html>

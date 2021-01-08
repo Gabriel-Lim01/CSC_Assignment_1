@@ -190,6 +190,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AmazonUploader.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -202,6 +203,13 @@
     <Compile Include="Models\Talent.cs" />
     <Compile Include="Models\TalentRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="searchTalentStart\TalentsSearch.aspx.cs">
+      <DependentUpon>TalentsSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="searchTalentStart\TalentsSearch.aspx.designer.cs">
+      <DependentUpon>TalentsSearch.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -238,6 +246,7 @@
     <Content Include="searchTalentStart\jquery.js" />
     <Content Include="searchTalentStart\mystyle.css" />
     <Content Include="searchTalentStart\script.js" />
+    <Content Include="searchTalentStart\TalentsSearch.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

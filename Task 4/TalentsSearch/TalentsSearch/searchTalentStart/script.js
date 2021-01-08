@@ -20,14 +20,15 @@ $('#search').keyup(function () {
             //for debug
             console.log(data);
             if ((val.Name.search(myExp) != -1) ||
-			(val.Bio.search(myExp) != -1)) {
+                (val.Bio.search(myExp) != -1)) {
                 output += '<li>';
                 output += '<h2>' + val.Name + '</h2>';
                 //get the absolute path for local image
                 //output += '<img src="images/'+ val.ShortName +'_tn.jpg" alt="'+ val.Name +'" />';
 
                 //get the image from cloud hosting
-                output += '<img src=' + urlForCloudImage + val.ShortName + "_tn.jpg alt=" + val.Name + '" />';
+                //output += '<img src=' + urlForCloudImage + val.ShortName + "_tn.jpg alt=" + val.Name + '" />';
+                output += '<img src=' + 'https://talents-search.s3.amazonaws.com/' + val.ShortName + "_tn.jpg alt=" + val.Name + '" />';
                 output += '<p>' + val.Bio + '</p>';
                 output += '</li>';
             }
@@ -35,4 +36,28 @@ $('#search').keyup(function () {
         output += '</ul>';
         $('#update').html(output);
     }); //get JSON
+});
+
+$("#submit").click(function (e) {
+    var longurl = $("#longurl").val();
+    /* access token commented out for security reasons */
+    var token = '';
+    var data = { longurl };
+
+    $.ajax({
+        type: "POST",
+        url: "https://api-ssl.bitly.com/v4/shorten",
+        headers: {
+            "Authorization": 'Bearer ' + token
+        },
+        dataType: "json",
+        data: data,
+        success: function (data) {
+            console.log(data.link);
+        },
+        error: function (xhr, status, error) {
+            alert("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText)
+        }
+    });
+
 });
